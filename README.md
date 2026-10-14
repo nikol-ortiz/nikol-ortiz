@@ -36,12 +36,12 @@ Uno de mis objetivos es crecer profesionalmente, adquirir experiencia y converti
 
 | 💻 Tecnología | 📚 Lo que he trabajado |
 |---|---|
-| 🌐 *HTML* | Estructura de páginas web, tablas y formularios. |
-| 🎨 *CSS* | Colores, márgenes, espacios y diseño web. |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"> *python* | Variables, condicionales, ciclos y funciones. |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git"> *Git* | Commits, ramas y control de versiones. |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub"> *GitHub* | Repositorios y publicación de código. |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" alt="Visual Studio Code"> *Visual Studio Code* | Editor para escribir y organizar mi código. |
+| 🌐 **HTML** | Estructura de páginas web, tablas y formularios. |
+| 🎨 **CSS** | Colores, márgenes, espacios y diseño web. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"> **python** | Variables, condicionales, ciclos y funciones. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git"> **Git** | Commits, ramas y control de versiones. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub"> **GitHub** | Repositorios y publicación de código. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" alt="Visual Studio Code"> **Visual Studio Code** | Editor para escribir y organizar mi código. |
 
 ---
 
