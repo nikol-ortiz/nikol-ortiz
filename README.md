@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # ✨ ¡Hola! Soy Nikol Ortiz 
 
-### 💻 Aprendiz de Desarrollo de Software | Campuslands
+### 💻 Aprendiz de Desarrollo de Software - Campuslands
 
 ¡Bienvenido a mi perfil de GitHub! 🚀
 
@@ -38,7 +38,7 @@ Uno de mis objetivos es crecer profesionalmente, adquirir experiencia y converti
 |---|---|
 | 🌐 *HTML* | Estructura de páginas web, tablas y formularios. |
 | 🎨 *CSS* | Colores, márgenes, espacios y diseño web. |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"> *Python* | Variables, condicionales, ciclos y funciones. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"> *python* | Variables, condicionales, ciclos y funciones. |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git"> *Git* | Commits, ramas y control de versiones. |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub"> *GitHub* | Repositorios y publicación de código. |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" alt="Visual Studio Code"> *Visual Studio Code* | Editor para escribir y organizar mi código. |
