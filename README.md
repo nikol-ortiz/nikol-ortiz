@@ -26,7 +26,7 @@ Soy estudiante de Desarrollo de Software en Campuslands y estoy construyendo mi 
 
 Me gusta aprender cosas nuevas, enfrentar retos y mejorar mis habilidades paso a paso. Actualmente estoy fortaleciendo mis conocimientos en programación, desarrollo web y herramientas que me permiten crear y organizar mis proyectos.
 
-🎯 Mi objetivo es crecer profesionalmente, adquirir experiencia y convertir mis conocimientos en oportunidades para mi futuro.
+
 
 ## 🛠️ Tecnologías y herramientas
 
@@ -34,7 +34,7 @@ Me gusta aprender cosas nuevas, enfrentar retos y mejorar mis habilidades paso a
 | ------------------------- | ------------------------------------------------ |
 | 🌐 *HTML*               | Estructura de páginas web, tablas y formularios. |
 | 🎨 *CSS*                | Colores, márgenes, espacios y diseño web.        |
-| 🐍 *Python*             | Variables, condicionales, ciclos y funciones.    |
+| 🐍 *python*             | Variables, condicionales, ciclos y funciones.    |
 | 🔀 *Git*                | Commits, ramas y control de versiones.           |
 | 🐙 *GitHub*             | Repositorios y publicación de código.            |
 | 💙 *Visual Studio Code* | Editor para escribir y organizar mi código.      |
